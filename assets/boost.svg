@@ -1,0 +1,11 @@
+<svg viewBox="0 0 70 40" xmlns="http://www.w3.org/2000/svg" >
+
+    <path stroke-width="1px" stroke="#b16818" fill="none" d="M20,20 L20,10A10,10,0,0,1,30,0 L60,0 A10,10,0,0,1,70,10 L70,20 A10,10,0,0,1,60,30L30,30" />
+    <path stroke-width="1px" stroke="#b16818" stroke-linejoin="round" fill="none" d="M30,30 L10,35 L20,20" />
+
+    <path stroke-width="1px" stroke="#b16818" fill="none" d="M30,15L43,15  M36.5,8.5L36.5,21.5" />
+    <path stroke-width="1px" stroke="#b16818" fill="none" d="M46,15L59,15  M52.5,8.5L52.5,21.5" />
+
+
+    <!-- 25 to 65 x value allowed -->
+</svg>
