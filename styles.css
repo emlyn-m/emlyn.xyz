@@ -154,3 +154,18 @@ body {
 body {
     border: 1px solid var(--accent);
 }
+
+#commit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#commit h2 {
+    display: inline-block;
+    flex: 0 0 auto;
+    color: var(--accent);
+    font-family: "Square";
+    font-size: 3rem;
+    text-align: center;
+}
